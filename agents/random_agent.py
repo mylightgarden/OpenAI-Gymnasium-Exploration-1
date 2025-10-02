@@ -1,2 +1,0 @@
-# Centralized critic network
-
