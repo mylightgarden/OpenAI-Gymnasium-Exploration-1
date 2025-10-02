@@ -1,7 +1,7 @@
 # OpenAI-Gymnasium-Exploration-1
 Teaching an agent to land on the moon — with Deep Deterministic Policy Gradient (DDPG) in PyTorch.
 
-# LunarLanderContinuous-v3 with Deep Deterministic Policy Gradient (DDPG)
+* LunarLanderContinuous-v3 with Deep Deterministic Policy Gradient (DDPG)
 
 This project implements **Deep Deterministic Policy Gradient (DDPG)** to solve the [LunarLanderContinuous-v3](https://www.gymlibrary.dev/environments/box2d/lunar_lander/) environment from OpenAI Gym.  
 
