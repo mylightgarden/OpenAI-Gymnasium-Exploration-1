@@ -20,8 +20,11 @@ This project implements **Deep Deterministic Policy Gradient (DDPG)** to solve t
 Code structure:
 
 ├── ddpg_agent.py        # Core DDPG implementation (actor, critic, replay buffer, training loop)
+
 ├── train.py             # Training script
+
 ├── evaluate.py          # Evaluation script
+
 ├── utils.py             # Helper functions (plotting, saving models, etc.)
 
 Extra Notes:
